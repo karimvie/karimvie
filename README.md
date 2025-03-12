@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kb
+- 👋 Hi, I’m karim
 - 👀 I’m interested in programming and artificial intelegence
 - 💞️ I’m looking to collaborate on ...
 <!---
